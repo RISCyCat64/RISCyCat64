@@ -36,11 +36,6 @@ I’m passionate about building clean applications, learning advanced algorithms
 - Reduced manual errors and improved reliability.  
 - Documented architecture and steps for reproducibility.  
 
-### 🌐 Jan Paria Website (Portfolio Site) — HTML, CSS, JavaScript, Docker
-- Built and deployed static website for an art portfolio.  
-- Experimented with Docker containerization & Render hosting.  
-- Planned HTTPS and backend integration.  
-
 ### 🔐 HDD Chrome Password Recovery (Security Project) — Ubuntu Live, SQLite, DPAPI
 - Mounted Windows HDD via Ubuntu Live.  
 - Analyzed Chrome `Login Data` SQLite DB.  
