@@ -1,4 +1,4 @@
-# Hi, I’m RISCyCat64 👋
+# Hi, I’m RISCyCat 👋
 
 🚀 **Software Engineer | Adaptive Learner | Problem Solver**
 
