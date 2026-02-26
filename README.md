@@ -1,4 +1,4 @@
-# Hi, I’m Georgiana Mangiuchi 👋
+# Hi, I’m RISCyCat64 👋
 
 🚀 **Software Engineer | Adaptive Learner | Problem Solver**
 
